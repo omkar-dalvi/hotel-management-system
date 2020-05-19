@@ -9,7 +9,7 @@
 # Output
 
 - Init screen<br>
-  <img src="img/md_img1.PNG" width="400px;" height="200px;">
+  ![Init Image](img/md_img1.PNG)
   <br>
 - Registration<br>
   ![Image](img/md_registration.PNG)
