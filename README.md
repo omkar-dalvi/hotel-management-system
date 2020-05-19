@@ -8,21 +8,21 @@
 
 # Output
 
-- Init screen
+- Init screen<br>
   ![Init Image](img/md_img1.PNG)
   <br>
-- Registration
+- Registration<br>
   ![Image](img/md_registration.PNG)
   <br>
-- Login
+- Login<br>
   ![Image](img/md_login.PNG)
   <br>
-- Managment Servies
+- Managment Servies<br>
   ![Image](img/md_management_services.PNG)
   <br>
-- Order Placement
+- Order Placement<br>
   ![Image](img/md_place_order.PNG)
   <br>
-- Order History
+- Order History<br>
   ![Image](img/md_history.PNG)
   <br>
