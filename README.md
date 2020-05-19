@@ -9,20 +9,20 @@
 # Output
 
 - Init screen
-  ![Init Image](img/md_img1.png)
+  ![Init Image](img/md_img1.PNG)
   <br>
 - Registration
-  ![Image](img/md_registration.png)
+  ![Image](img/md_registration.PNG)
   <br>
 - Login
-  ![Image](img/md_login.png)
+  ![Image](img/md_login.PNG)
   <br>
 - Managment Servies
-  ![Image](img/md_management_services.png)
+  ![Image](img/md_management_services.PNG)
   <br>
 - Order Placement
-  ![Image](img/md_place_order.png)
+  ![Image](img/md_place_order.PNG)
   <br>
 - Order History
-  ![Image](img/md_history.png)
+  ![Image](img/md_history.PNG)
   <br>
